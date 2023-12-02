@@ -1,0 +1,20 @@
+CURD -> Create, Update, Read, Delete
+
+SQL has 2 full forms:
+    1. Structured Query Language (Database definition DDL -> Data definition language)
+    2. Search Query Language (URD -> Update, Read & Delete, DML -> Data Manipulation Language)
+
+
+There are 2 types of SQL:
+    1. SQL (Structured -> row & col [excel])
+    2. No-SQL (UnStructured -> Dictionary [json -> javascript object notation])
+
+MySQL -> 
+    python connection
+    good learning phase
+    many restrictions
+    small scale applications
+
+MySQL Server
+
+RDS -> Relational Database schema
